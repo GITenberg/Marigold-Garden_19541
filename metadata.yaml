@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6307
     wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19541#Marigold-Garden
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-10-14'
 gutenberg_type: Text
